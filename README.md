@@ -6,7 +6,7 @@ chosen for its readability and syntax, both important parts of an open-source pr
 add support for searching multiple phrases, an option for case insensitivity, and more user friendly URL input.
 
 ## Running the Program
-Run main.py, scraper.py does not have input or output. To run main.py, simply install python, navigate to the parent 
+Run main.py, scraper.py does not have input or output. To run main.py, simply install python3, navigate to the parent 
 folder in your terminal, and run the command 'python3 main.py' in the terminal.
 
 ## Using the Program
