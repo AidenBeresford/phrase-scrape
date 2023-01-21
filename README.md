@@ -1,7 +1,7 @@
-<h1 align="center">phaseScrape</h1>
+<h1 align="center">phase-scrape</h1>
 
 ## Description
-phaseScrape scrapes the text of a website for a count of how many times a user-inputted phrase was found. Python was 
+phase-scrape scrapes the text of a website for a count of how many times a user-inputted phrase was found. Python was 
 chosen for its readability and syntax, both important parts of an open-source program. In the future, I would like to
 add support for searching multiple phrases, ~~an option for case insensitivity~~ (See changelog v1.1), and more user friendly URL input.
 
